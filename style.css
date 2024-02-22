@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-page {
+    background-color: #ffedcb;
+}
+
+.yoga-home-page {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    height: 80vh;
+}
+
+.yoga-home-page-heading {
+    color: #132d84;
+    padding-top: 45px;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.yoga-home-page-girl {
+    margin-top: 110px;
+    height: 40vh;
+    width: 250px;
+}
+
+.yoga-home-page-bottom-section {
+    text-align: center;
+    background-color: #ffedcb;
+    height: 25vh;
+}
+
+.yoga-home-page-para {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.yoga-home-page-button {
+    background-color: #132d84;
+    color: #ffedcb;
+}
+
+.yoga-home-page-item {
+    text-align: center;
+}
+
+.yoga-type-page-girl {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-girl-with-headphones-img.png');
+    background-size: cover;
+    padding-top: 20px;
+    height: 45vh;
+    width: 250px;
+}
+
+.yoga-type-page {
+    background-color: #ffedcb;
+    padding: 25px;
+}
+
+.yoga-type-page-heading {
+    color: #132d84;
+    font-weight: 500;
+    margin-top: 235px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.yoga-type-page-card {
+    background-color: #ffe2ab;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.yoga-type-page-card-image {
+    height: 90px;
+    width: 80px;
+}
+
+.yoga-type-page-card-para {
+    padding-left: 15px;
+    color: #253263;
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom: 1px;
+}
+
+.yoga-type-page-card-para2 {
+    padding-left: 15px;
+    margin-top: 5px;
+    color: #253263;
+    font-size: 13px;
+    font-weight: 500;
+}
